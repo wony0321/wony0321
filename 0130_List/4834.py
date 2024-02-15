@@ -13,11 +13,11 @@ for tc in range(1, T+1):
         counts[num] += 1
 
     max = counts[0]
-    idx_lst = []
+    idx_save = 0
 
     for idx in range(10):
         if counts[idx] >= max:
             max = counts[idx]
-            idx_lst.append(idx)
+            idx_save = idx
 
-    print(f'#{tc} {idx_lst[-1]} {max}')
+    print(f'#{tc} {idx_save} {max}')
