@@ -75,6 +75,7 @@ for tc in range(1, T+1):
 
     print(f'#{tc} {result}')
 
+from collections import deque
 
     # q = deque([0] * N)
     # front = rear = 0
