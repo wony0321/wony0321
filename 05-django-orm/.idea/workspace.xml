@@ -2,8 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e458326-6b4e-42ee-9f9a-257b3c89bb0c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/crud/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/crud/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/articles/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/articles/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/articles/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/articles/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/articles/migrations/0002_article_created_at_article_updated_at.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/articles/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/articles/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/articles/templates/articles/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/articles/templates/articles/details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/articles/templates/articles/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/articles/templates/articles/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/articles/templates/articles/new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/articles/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/articles/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/articles/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/crud/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/crud/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/crud/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/crud/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/crud/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-django-orm-with-view/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_hw_5_2" beforeDir="false" afterPath="$PROJECT_DIR$/../django_hw_5_2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
