@@ -45,6 +45,7 @@ def create(request):
 
 def delete(request, pk):
     # 몇 번 글 삭제할건데? -> 조회
+    # 단일 정보만 찾을 때 pk사용
     article = Article.objects.get(pk=pk)
     article.delete()
     return redirect('articles:index')
@@ -55,6 +56,7 @@ def edit(request, pk):
         'article': article,
     }
     return render(request, 'articles/edit.html', context)
+    # /은 파일 경로
 
 def update(request, pk):
     # 몇 번 게시글 수정? -> 조회 필요
@@ -71,5 +73,6 @@ def update(request, pk):
     article.save()
 
     # return redirect('주소', 파라미터)
+    # 재요청 -> 파일 경로가 아니라 url 주소로 요청
     return redirect('articles:detail', article.pk)
 
