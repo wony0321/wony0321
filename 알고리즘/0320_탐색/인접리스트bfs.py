@@ -15,16 +15,25 @@ graph = [
 
 visited = [0] * 5
 
+from collections import deque
+
 def bfs(start):
     # 재귀가 아니어서 안에 써도 OK
-
+    start = (0,0)
     # queue = deque()
     # 시작 노드를 큐에 추가 + 방문 표시
-    queue = [start]
-    visited[start] = 1
+    queue = deque([start])
+
 
     while queue:
-        now = queue.pop(0)
+        i,j = queue.popleft()
+        visited[start][] = 1
+        [di,dj] 1,0 0,1 -1,0 0,-1
+        for di,dj in [1,0 0,1 -1,0 0,-1]
+        if 0<=i+di<N  board[i+di][j+dj] != wall:
+            visited[i+di][j+dj] = 1
+            queue.append(i+di,j+dj)
+
         print(now, end=' ')
 
         # 갈 수 있는 곳을 체크

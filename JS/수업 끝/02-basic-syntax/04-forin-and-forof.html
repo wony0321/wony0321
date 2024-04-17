@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <script>
+    // for...in
+
+    // Array
+    const arr = ['a', 'b', 'c']
+    for (const elem in arr) {
+      console.log(elem) // 0 1 2
+    }
+
+    // Object
+    const capitals1 = {
+      korea: '서울',
+      japan: '도쿄',
+      china: '베이징',
+    }
+
+    for (const capital in capitals1) {
+      console.log(capital)
+    }
+
+    ////////////////////////////////////////
+
+
+    // for...of
+
+    // Array
+    const numbers = ['a', 'b', 'c']
+
+    // numbers = {
+    //   0: 'a',
+    //   1: 'b',
+    //   2: 'c'
+    // }
+
+    for (const elem of numbers) {
+      console.log(elem) // a b c
+    }
+
+    for (let num of numbers) {
+      console.log(num) // a b c
+      num += 1
+    }
+
+
+    // Object
+    const capitals2 = {
+      korea: '서울',
+      japan: '도쿄',
+      china: '베이징',
+    }
+
+    for (const capital of capitals2) {
+      console.log(capital)
+    }
+    // capitals is not iterable
+
+  </script>
+</body>
+
+</html>
