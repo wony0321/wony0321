@@ -9,38 +9,23 @@
 
 <body>
   <script>
-    // let
-    // 선언 및 초기값 할당
+    // // let
     // let number = 10
-    // // 재할당
+    // // 재할당 가능
     // number = 20
-    // 선언 및 초기값
-    // let number = 10
-    // let number
-    // undefined
-    console.log(number)
+    // // 재선언 불가능
+    // let number = 100
+    let number
+    console.log(number)  // undefined
 
-    // 재선언 불가눙
-    // let number = 20
     // const
-    // const secondnumber = 10
+    // const secondNumber = 10
     // // 재할당 불가능
-    // secondnumber = 20
-    // 선언 및 초기값 할당
-    // const number = 10
-    // 재선언 불가능
-    // const number = 20
-
-    // 'const' declarations must be initialized
-    // 선언시 만드시 초기값 필요
-    // const number
-
-    // const thirdNumber
-    화씨를구하기위한변수 = 12123
-    // javascript는 이와 같은 재선언 막기 위함
-    화씨를구하기위한변수 = 'aaaa'
-
-
+    // secondNumber = 20  // Uncaught TypeError: Assignment to constant variable.
+    // // 재선언
+    // const secondNumber = 100  // Uncaught SyntaxError: Identifier 'secondNumber' has already been declared
+  
+    // const thirdNumber  // 'const' declarations must be initialized.
   </script>
 </body>
 

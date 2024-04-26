@@ -1,19 +1,17 @@
 X = int(input())
 
-cnt = 0
-ans = (0, 0)
+# 어떤 줄인지 저장
+line = 1
 
-num = 1
-max_num = 1
+while X > line:
+    X -= line
+    line += 1
 
-while cnt < X:
-    max_num += num
-    num += 1
+if line % 2 == 0:
+    a = X
+    b = line - X + 1
+else:
+    a = line - X + 1
+    b = X
 
-
-if num % 2 == 0:
-    ans = (cnt, X-cnt+1)
-elif num % 2 != 0:
-    ans = (X-cnt+1, cnt)
-
-print(f'{ans[0]}/{ans[1]}')
+print(f'{a}/{b}')

@@ -14,19 +14,19 @@
     // Array
     const arr = ['a', 'b', 'c']
     for (const elem in arr) {
-      console.log(elem) // 0 1 2
+      console.log(elem)
     }
 
     // Object
-    const capitals1 = {
+    const capitals = {
       korea: '서울',
       japan: '도쿄',
       china: '베이징',
     }
-
-    for (const capital in capitals1) {
+    for (capital in capitals) {
       console.log(capital)
     }
+
 
     ////////////////////////////////////////
 
@@ -34,23 +34,10 @@
     // for...of
 
     // Array
-    const numbers = ['a', 'b', 'c']
-
-    // numbers = {
-    //   0: 'a',
-    //   1: 'b',
-    //   2: 'c'
-    // }
-
-    for (const elem of numbers) {
-      console.log(elem) // a b c
+    const arr2 = ['a', 'b', 'c']
+    for (const elem of arr2) {
+      console.log(elem)
     }
-
-    for (let num of numbers) {
-      console.log(num) // a b c
-      num += 1
-    }
-
 
     // Object
     const capitals2 = {
@@ -58,11 +45,9 @@
       japan: '도쿄',
       china: '베이징',
     }
-
-    for (const capital of capitals2) {
-      console.log(capital)
+    for (capital of capitals2) {
+      console.log(capital)  // Uncaught TypeError: capitals2 is not iterable
     }
-    // capitals is not iterable
 
   </script>
 </body>
