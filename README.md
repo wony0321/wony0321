@@ -5,12 +5,21 @@
 
   ![Yaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wony0321&show_icons=true&theme=radical)
 
-  ## 안녕하세요. 저에 대해 소개합니다.
-  - 법학과 재학
-  - SSAFY 11기 입과
-  - 프로젝트1) 덕구(덕질친구를 구해요): 영화 추천 SNS
-  - 프로젝트2) OnTheRock: 클라이밍 SNS 웹/앱
-  - 신한 해커톤 with SSAFY 본선 진출
+## 👋 안녕하세요! 저에 대해 소개합니다.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/학과-법학과-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/SAFFY-11기-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/해커톤-본선진출-ff4500?style=flat-square" />
+</p>
+
+- 🎓 **법학과 재학**
+- 🎉 **SSAFY 11기 입과**
+- 🎬 **프로젝트 1) 덕구**: 영화 추천 SNS
+- 🧗‍♂️ **프로젝트 2) OnTheRock**: 클라이밍 SNS 웹/앱
+- 💼 **신한 해커톤 with SSAFY 본선 진출**
+
+<hr>
 
   ## 사용 가능 언어
   <div>
