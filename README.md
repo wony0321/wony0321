@@ -9,8 +9,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/학과-법학과-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/SAFFY-11기-ff69b4?style=flat-square" />
-  <img src="https://img.shields.io/badge/해커톤-본선진출-ff4500?style=flat-square" />
+  <img src="https://img.shields.io/badge/SSAFY-11기-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/신한해커톤-본선진출-ff4500?style=flat-square" />
 </p>
 
 - 🎓 **법학과 재학**
