@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f182a2&width=100%&height=200&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f182a2&width=100%&height=100&section=header" />
 
   <img src="https://github.com/user-attachments/assets/cf4ac3f7-9778-4a29-ad7d-b8ac77aef8c0" width="600" />
 
@@ -22,5 +22,5 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </div>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f182a2&width=100%&height=200&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f182a2&width=100%&height=100&section=footer" />
 </div>
