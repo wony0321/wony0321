@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f182a2&width=400&height=200&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f182a2&width=100%&height=200&section=header" />
 
 
   ![git_welcome](https://github.com/user-attachments/assets/cf4ac3f7-9778-4a29-ad7d-b8ac77aef8c0)
