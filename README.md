@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f182a2&width=100%&height=150&section=header" />
 
-  ![git_welcome](https://github.com/user-attachments/assets/1fcb0e64-6e53-4c56-9c8b-ed4925184cb0)
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/1fcb0e64-6e53-4c56-9c8b-ed4925184cb0" width="800" />
+  </div>
 
   <br>
 
@@ -28,11 +30,10 @@
 
 ## 📌 주요 프로젝트
 
-<div align="center">
+<table>
   <tr>
     <td>
-      <!-- 덕구 프로젝트 -->
-      <div style="border: 2px solid #ff69b4; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; text-align: left;">
+      <div style="border: 2px solid #ff69b4; border-radius: 10px; padding: 20px; width: 300px;">
         <img src="https://img.shields.io/badge/프로젝트-덕구-ff69b4?style=for-the-badge" />
         <p>🎬 <strong>덕구(덕질친구를 구해요)</strong></p>
         <p>영화 추천 커뮤니티 서비스로, Django와 Vue.js를 사용해 전체 구조를 설계하고 AI 추천 알고리즘을 적용했습니다.</p>
@@ -40,8 +41,7 @@
       </div>
     </td>
     <td>
-      <!-- OnTheRock 프로젝트 -->
-      <div style="border: 2px solid #ff4500; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; text-align: left;">
+      <div style="border: 2px solid #ff4500; border-radius: 10px; padding: 20px; width: 300px;">
         <img src="https://img.shields.io/badge/프로젝트-OnTheRock-ff4500?style=for-the-badge" />
         <p>🧗‍♂️ <strong>OnTheRock</strong></p>
         <p>클라이머들을 위한 SNS로, React.js와 Redux를 사용해 상태 관리 및 Tailwind CSS로 반응형 웹을 완성했습니다.</p>
@@ -51,8 +51,7 @@
   </tr>
   <tr>
     <td>
-      <!-- MooBeing 프로젝트 -->
-      <div style="border: 2px solid #C5E1AB; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; text-align: left;">
+      <div style="border: 2px solid #C5E1AB; border-radius: 10px; padding: 20px; width: 300px;">
         <img src="https://img.shields.io/badge/프로젝트-MooBeing-C5E1AB?style=for-the-badge" />
         <p>🥚 <strong>MooBeing</strong></p>
         <p>신한 해커톤 본선 진출 프로젝트로, 부채 관리 솔루션을 PWA로 구현하여 맞춤형 재정 계획을 제공했습니다.</p>
@@ -60,7 +59,7 @@
       </div>
     </td>
   </tr>
-</div>
+</table>
 
 <br>
 
