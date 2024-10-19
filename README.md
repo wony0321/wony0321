@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/신한해커톤-본선진출-348833?style=flat-square" />
 </p>
 
-<div>🎓 <strong>해사법학부 법학과 졸업 (학점: 4.27/4.5)</strong> </div>
+<div>🎓 <strong>법학과 졸업 (학점: 4.27/4.5)</strong> </div>
 <div>🎉 <strong>SSAFY 11기</strong> </div>
 <div>✨ <strong>SSAFY 2학기 공통 프로젝트 우수상</strong> </div>
 <div>💼 <strong>신한 해커톤 with SSAFY 본선 진출</strong> </div>
