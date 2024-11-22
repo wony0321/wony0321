@@ -43,6 +43,7 @@
         <div style="text-align: center;">
           <a href="https://github.com/wony0321/DuckGu" style="display: inline-block; text-decoration: none; background-color: #FFD700; color: black; padding: 8px 15px; border-radius: 5px; margin-top: 10px;">보러가기</a>
         </div>
+        [![보러가기](https://img.shields.io/badge/보러가기-FFD700?style=for-the-badge)](https://github.com/wony0321/DuckGu)
       </div>
     </td>
     <td>
