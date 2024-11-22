@@ -65,7 +65,7 @@
         <p>신한 해커톤 본선 진출 프로젝트로, 부채 관리 솔루션을 PWA로 구현하여 맞춤형 재정 계획을 제공했습니다.</p>
         <p><strong>주요 역할:</strong> 프론트엔드 개발자, React.js 라이브러리 사용, PWA 적용</p>
         <div style="text-align: center;">
-          <a href="https://github.com/59s" style="display: inline-block; text-decoration: none; background-color: #FFE4D5; color: white; padding: 8px 15px; border-radius: 5px; margin-top: 10px;">보러가기</a>
+          <a href="https://github.com/Shinhan-Hackathon-IM/Moobeing" style="display: inline-block; text-decoration: none; background-color: #FFE4D5; color: white; padding: 8px 15px; border-radius: 5px; margin-top: 10px;">보러가기</a>
         </div>
       </div>
     </td>
@@ -89,7 +89,7 @@
         <p>공정한 경쟁의 새로운 기준을 제시하는 프로젝트로, 크리에이터나 인플루언서들을 위한 이벤트 생성 및 팬들을 위한 이벤트 참여 기능을 제공해줍니다.</p>
         <p><strong>주요 역할:</strong> 프론트엔드 개발자, 웹화면 UI/UX 설계 및 구현</p>
         <div style="text-align: center;">
-          <a href="https://github.com/404MooBeing/MooBeing" style="display: inline-block; text-decoration: none; background-color: #C4C5D7; color: black; padding: 8px 15px; border-radius: 5px; margin-top: 10px;">보러가기</a>
+          <a href="" style="display: inline-block; text-decoration: none; background-color: #C4C5D7; color: black; padding: 8px 15px; border-radius: 5px; margin-top: 10px;">보러가기</a>
         </div>
       </div>
     </td>
