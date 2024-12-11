@@ -52,7 +52,7 @@
         <p>클라이머들을 위한 SNS로, React.js와 Redux를 사용해 상태 관리 및 Tailwind CSS로 반응형 웹을 완성했습니다.</p>
         <p><strong>주요 역할:</strong> 프론트엔드 개발자, 전체적인 화면 설계 및 구현</p>
         <div style="text-align: center;">
-        <a href="https://github.com/singleton-ontherock/Frontend" style="display: inline-block; text-decoration: none; background-color: #44537F; color: white; padding: 8px 15px; border-radius: 5px; margin-top: 10px;">보러가기</a>
+        <a href="https://github.com/singleton-ontherock/OnTheRock" style="display: inline-block; text-decoration: none; background-color: #44537F; color: white; padding: 8px 15px; border-radius: 5px; margin-top: 10px;">보러가기</a>
         </div>
       </div>
     </td>
