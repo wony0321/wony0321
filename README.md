@@ -102,12 +102,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px">
   <div style="display: flex; align-items: center;">
-    <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white
-)" />
-    <span>⭐⭐⭐⭐☆</span>
-  </div>
-  <div style="display: flex; align-items: center;">
-     <img src="https://img.shields.io/badge/Figma-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <span>⭐⭐⭐⭐☆</span>
   </div>
   <div>
