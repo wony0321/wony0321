@@ -32,7 +32,7 @@
 
 ## 📌 주요 프로젝트
 
-<table>
+<table id="projects">
   <tr>
     <td>
       <div style="border: 2px solid #FFF2B2; border-radius: 10px; padding: 20px; width: 300px; height: 280px;">
@@ -171,7 +171,7 @@
 **선택 이유:** 빠르고 안정적인 개발을 위해 선택한 프레임워크입니다.
 
 <div align="right">
-  <a href="#user-content-주요-프로젝트">맨 위로 ⬆️</a>
+  <a href="#projects">맨 위로 ⬆️</a>
 </div>
 
 ---
@@ -203,7 +203,7 @@
 **성과:** 삼성 청년 SW 아카데미 11기 공통 우수 프로젝트
 
 <div align="right">
-  <a href="#user-content-주요-프로젝트">맨 위로 ⬆️</a>
+  <a href="#projects">맨 위로 ⬆️</a>
 </div>
 
 ---
@@ -233,7 +233,7 @@
 **성과:** 신한해커톤 본선 진출
 
 <div align="right">
-  <a href="#user-content-주요-프로젝트">맨 위로 ⬆️</a>
+  <a href="#projects">맨 위로 ⬆️</a>
 </div>
 
 ---
@@ -249,9 +249,9 @@
 
 **역할:** 팀장 및 프론트엔드 개발자
 **기여:** PWA 적용, 메인페이지, 소BTI 화면 등 구현
-
+  
 <div align="right">
-  <a href="#user-content-주요-프로젝트">맨 위로 ⬆️</a>
+  <a href="#projects">맨 위로 ⬆️</a>
 </div>
 
 ---
@@ -269,7 +269,7 @@
 **기여:** 웹화면 UI/UX 설계 및 구현
 
 <div align="right">
-  <a href="#user-content-주요-프로젝트">맨 위로 ⬆️</a>
+  <a href="#projects">맨 위로 ⬆️</a>
 </div>
 
 <br>
