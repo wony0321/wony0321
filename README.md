@@ -22,7 +22,7 @@
 
 <div>✈ <strong>해외(영국)거주 (2004.05~2009.12)</strong> </div>
 <div>🎓 <strong>법학과 졸업 (학점: 4.27/4.5)</strong> </div>
-<div>📖 <strong>OPIc AL & TOEIC 940점</strong> </div>
+<div>📖 <strong>OPIc AL & TOEIC 940점(2023년 기준), 925점(2025년 기준)</strong> </div>
 <div>🎉 <strong>SSAFY 11기</strong> </div>
 <div>✨ <strong>SSAFY 2학기 공통 프로젝트 우수상</strong> </div>
 <div>💼 <strong>신한 해커톤 with SSAFY 본선 진출</strong> </div>
@@ -98,11 +98,15 @@
 
 <br>
 
-## 사용 가능 언어
+## 사용 가능 기술
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px">
   <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <span>⭐⭐⭐⭐☆</span>
+  </div>
+  <div style="display: flex; align-items: center;">
+     <img src="https://img.shields.io/badge/Figma-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <span>⭐⭐⭐⭐☆</span>
   </div>
   <div>
