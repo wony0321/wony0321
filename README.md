@@ -9,7 +9,6 @@
 
 ![Yaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wony0321&show_icons=true&theme=dracula&cache_seconds=1800&include_all_commits=true&count_private=true)
 
-
   <br>
 
 ## 👋 안녕하세요! 저에 대해 소개합니다.
@@ -25,6 +24,7 @@
 <div>🎓 <strong>법학과 졸업 (학점: 4.27/4.5)</strong> </div>
 <div>📖 <strong>OPIc AL & TOEIC 940점(2023년 기준), 925점(2025년 기준)</strong> </div>
 <div>🎉 <strong>SSAFY 11기</strong> </div>
+<div>🎉 <strong>It's Your Life 6기</strong> </div>
 <div>✨ <strong>SSAFY 2학기 공통 프로젝트 우수상</strong> </div>
 <div>💼 <strong>신한 해커톤 with SSAFY 본선 진출</strong> </div>
 
@@ -272,7 +272,7 @@
 **역할:** 팀장 및 프론트엔드 개발자
 <br>
 **기여:** PWA 적용, 메인페이지, 소BTI 화면 등 구현
-  
+
 <div align="right">
   <a href="#projects">프로젝트 전체 ⬆️</a>
 </div>
