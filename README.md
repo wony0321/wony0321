@@ -116,10 +116,6 @@
     <span>⭐⭐⭐☆☆</span>
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <span>⭐⭐☆☆☆</span>
-  </div>
-  <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <span>⭐⭐⭐☆☆</span>
   </div>
@@ -132,12 +128,20 @@
     <span>⭐⭐⭐☆☆</span>
   </div>
   <div>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=green" />
+    <span>⭐⭐⭐☆☆</span>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <span>⭐⭐⭐⭐☆</span>
   </div>
   <div>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <span>⭐⭐⭐⭐☆</span>
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <span>⭐⭐☆☆☆</span>
   </div>
 </div>
 
@@ -150,7 +154,7 @@
 
 #### ✔️ 프로젝트 개요
 
-**목표:** 인간은 '관계'를 중요하게 여긴다는 점에 착안하여 이를 기반으로 한 영화 추천 서비스 기획
+**목표:** 인간은 '관계'를 중요하게 여긴다는 점에 착안하여 이를 기반으로 한 영화 추천 서비스 개발
 <br>
 **배경:** 취향이 비슷한 사용자들이 있는 영화 모임(Meet-둥지) 추천 애플리케이션 기획
 
@@ -176,7 +180,7 @@
 
 **사용 기술:** Django REST Framework + Vue.js
 <br>
-**선택 이유:** 빠르고 안정적인 개발을 위해 선택한 프레임워크입니다.
+**선택 이유:** 빠르고 안정적인 개발을 위해 선택한 프레임워크
 
 <div align="right">
   <a href="#projects">프로젝트 전체 ⬆️</a>
@@ -211,9 +215,9 @@
 <br>
 **기여:** 스트리밍 서비스 접속 코드 작성, Redux 상태 관리 구축, 반응형 디자인 구현
 
-#### ✔️ 사용 기술/이유
+#### ✔️ 사용 기술/성과
 
-**사용 기술:** React.js, JavaScript, Tailwind CSS, Redux
+**사용 기술:** React.js, JavaScript, Tailwind CSS, Redux, Figma
 <br>
 **성과:** 삼성 청년 SW 아카데미 11기 공통 우수 프로젝트
 
@@ -247,7 +251,7 @@
 <br>
 **기여:** 팀 내 계획 수립, 컴포넌트 구조 수립, 소비내역 그래프, 상환 그래프, 챗봇 구현
 
-#### ✔️ 사용 기술/이유
+#### ✔️ 사용 기술/성과
 
 **사용 기술:** React.js, Zustand, Styled Component, JavaScript, Figma
 <br>
@@ -273,6 +277,12 @@
 <br>
 **기여:** PWA 적용, 메인페이지, 소BTI 화면 등 구현
 
+#### ✔️ 사용 기술/이유
+
+**사용 기술:** React.js, PWA, Zustand, Styled Component, JavaScript, Figma
+<br>
+**이유:** 웹/앱 개발을 위해 PWA 기술 사용
+
 <div align="right">
   <a href="#projects">프로젝트 전체 ⬆️</a>
 </div>
@@ -289,9 +299,15 @@
 
 #### ✔️ 담당 역할 및 기여
 
-**역할:** 프론트엔드 개발자
+**역할:** 프론트엔드 리더
 <br>
 **기여:** 웹화면 UI/UX 설계 및 구현
+
+#### ✔️ 사용 기술/성과
+
+**사용 기술:** Next.js, Zustand, Tailwind.css, Typecript, Figma
+<br>
+**성과:** Redis 분산락을 사용하여 6,000명 이상이 동시에 접근하는 환경에서도 데이터 충돌 없이 순위 데이터를 처리
 
 <div align="right">
   <a href="#projects">프로젝트 전체 ⬆️</a>
