@@ -9,6 +9,8 @@
 
 ![Yaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wony0321&show_icons=true&theme=dracula&cache_seconds=1800&include_all_commits=true&count_private=true)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyw000321)](https://solved.ac/lyw000321/)   
+
   <br>
 
 ## 👋 안녕하세요! 저에 대해 소개합니다.
