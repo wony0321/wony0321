@@ -43,7 +43,7 @@
         <img src="https://img.shields.io/badge/프로젝트-덕구-FFF2B2?style=for-the-badge" />
         <p>🎬 <strong>덕구(덕질친구를 구해요)</strong></p>
         <p>영화 추천 커뮤니티 서비스로, Django와 Vue.js를 사용해 전체 구조를 설계하고 AI 추천 알고리즘을 적용했습니다.</p>
-        <p><strong>주요 역할:</strong> 풀스택 개발, 회원 및 데이터 관리 (CRUD & Restful API), UI/UX 설계 및 구현</p>
+        <p><strong>주요 역할:</strong> 팀장, 풀스택 개발, 회원 및 데이터 관리 (CRUD & Restful API), UI/UX 설계 및 구현</p>
         <div style="text-align: center;">
           <a href="#duckgu-details">상세 보기</a> | 
           <a href="https://github.com/wony0321/DuckGu" style="display: inline-block; text-decoration: none; background-color: #FFD700; color: black; padding: 8px 15px; border-radius: 5px; margin-top: 10px;">보러가기</a>
@@ -95,7 +95,7 @@
         <img src="https://img.shields.io/badge/프로젝트-59초-474972?style=for-the-badge" />
         <p>⏳ <strong>59Seconds (1 second before)</strong></p>
         <p>공정한 경쟁의 새로운 기준을 제시하는 프로젝트로, 크리에이터나 인플루언서들을 위한 이벤트 생성 및 팬들을 위한 이벤트 참여 기능을 제공해줍니다.</p>
-        <p><strong>주요 역할:</strong> 프론트엔드 개발자, 웹화면 UI/UX 설계 및 구현</p>
+        <p><strong>주요 역할:</strong> 프론트엔드 리더, 웹화면 UI/UX 설계 및 구현</p>
         <div style="text-align: center;">
           <a href="#59seconds-details">상세 보기</a> | 
           <a href="https://github.com/404DreamSolutions/59seconds" style="display: inline-block; text-decoration: none; background-color: #C4C5D7; color: black; padding: 8px 15px; border-radius: 5px; margin-top: 10px;">보러가기</a>
