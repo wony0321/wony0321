@@ -95,7 +95,7 @@
         <img src="https://img.shields.io/badge/프로젝트-59초-474972?style=for-the-badge" />
         <p>⏳ <strong>59Seconds (1 second before)</strong></p>
         <p>공정한 경쟁의 새로운 기준을 제시하는 프로젝트로, 크리에이터나 인플루언서들을 위한 이벤트 생성 및 팬들을 위한 이벤트 참여 기능을 제공해줍니다.</p>
-        <p><strong>주요 역할:</strong> 팀장, 백엔드 및 웹화면 구현</p>
+        <p><strong>주요 역할:</strong> 프론트엔드 리더, 웹화면 UI/UX 기획 및 구현</p>
         <div style="text-align: center;">
           <a href="#59seconds-details">상세 보기</a> | 
           <a href="https://github.com/404DreamSolutions/59seconds" style="display: inline-block; text-decoration: none; background-color: #C4C5D7; color: black; padding: 8px 15px; border-radius: 5px; margin-top: 10px;">보러가기</a>
@@ -108,7 +108,7 @@
     <p>💰 <strong>SamwaMoney (삼와머니)</strong></p>
     <p>“너… 지갑 아직 살아있어?”<br>콩팥이가 지켜주는 간편한 가계부, 삼와머니!</p>
     <p>지갑의 생명을 지키기 위한 가계부 서비스로, 신체 기관 콘셉트를 도입해 재밌고 직관적인 UX를 기획했습니다. 현재 개발 진행 중입니다.</p>
-    <p><strong>주요 역할:</strong> 프론트엔드 개발, 서비스 기획 및 디자인</p>
+    <p><strong>주요 역할:</strong> 팀장, 백엔드 및 웹화면 구현</p>
     <div style="text-align: center;">
       <a href="#samwamoney-details">상세 보기</a> | 
       <a href="https://github.com/KB-samwamoney/samwamoney" style="display: inline-block; text-decoration: none; background-color: #FFD1DC; color: black; padding: 8px 15px; border-radius: 5px; margin-top: 10px;">보러가기</a>
