@@ -39,7 +39,7 @@
 <table id="projects">
   <tr>
     <td>
-      <div style="border: 2px solid #FFF2B2; border-radius: 10px; padding: 20px; width: 300px; height: 280px;">
+      <div style="border: 2px solid #FFF2B2; border-radius: 10px; padding: 20px; width: 300px; height: 300px;">
         <img src="https://img.shields.io/badge/프로젝트-덕구-FFF2B2?style=for-the-badge" />
         <p>🎬 <strong>덕구(덕질친구를 구해요)</strong></p>
         <p>영화 추천 커뮤니티 서비스로, Django와 Vue.js를 사용해 전체 구조를 설계하고 AI 추천 알고리즘을 적용했습니다.</p>
@@ -51,7 +51,7 @@
       </div>
     </td>
     <td>
-      <div style="border: 2px solid #8090BF; border-radius: 10px; padding: 20px; width: 300px; height: 280px;">
+      <div style="border: 2px solid #8090BF; border-radius: 10px; padding: 20px; width: 300px; height: 300px;">
         <img src="https://img.shields.io/badge/프로젝트-OnTheRock-8090BF?style=for-the-badge" />
         <p>🧗‍♂️ <strong>OnTheRock</strong></p>
         <p>클라이머들을 위한 SNS로, React.js와 Redux를 사용해 상태 관리 및 Tailwind CSS로 반응형 웹을 완성했습니다.</p>
@@ -65,7 +65,7 @@
   </tr>
   <tr>
     <td>
-      <div style="border: 2px solid #C5E1AB; border-radius: 10px; padding: 20px; width: 300px; height: 280px;">
+      <div style="border: 2px solid #C5E1AB; border-radius: 10px; padding: 20px; width: 300px; height: 300px;">
         <img src="https://img.shields.io/badge/프로젝트-MooBeing-C5E1AB?style=for-the-badge" />
         <p>🥚 <strong>SHINHAN_MooBeing</strong></p>
         <p>신한 해커톤 본선 진출 프로젝트로, 부채 관리 솔루션을 PWA로 구현하여 맞춤형 재정 계획을 제공했습니다.</p>
@@ -77,7 +77,7 @@
       </div>
     </td>
     <td>
-      <div style="border: 2px solid #348833; border-radius: 10px; padding: 20px; width: 300px; height: 280px;">
+      <div style="border: 2px solid #348833; border-radius: 10px; padding: 20px; width: 300px; height: 300px;">
         <img src="https://img.shields.io/badge/프로젝트-MooBeing-348833?style=for-the-badge" />
         <p>🧗‍♂️ <strong>404_MooBeing</strong></p>
         <p>사용자들의 마음을 움직이는 생활금융플랫폼입니다. 무타임캡슐로 소비를 기록하고, 소비 MBTI를 분석해줍니다. 금융 개념에 대해 묻는 챗봇 기능도 있습니다.</p>
@@ -91,18 +91,33 @@
   </tr>
     <tr>
     <td>
-      <div style="border: 2px solid #474972; border-radius: 10px; padding: 20px; width: 300px; height: 280px;">
+      <div style="border: 2px solid #474972; border-radius: 10px; padding: 20px; width: 300px; height: 300px;">
         <img src="https://img.shields.io/badge/프로젝트-59초-474972?style=for-the-badge" />
         <p>⏳ <strong>59Seconds (1 second before)</strong></p>
         <p>공정한 경쟁의 새로운 기준을 제시하는 프로젝트로, 크리에이터나 인플루언서들을 위한 이벤트 생성 및 팬들을 위한 이벤트 참여 기능을 제공해줍니다.</p>
-        <p><strong>주요 역할:</strong> 프론트엔드 리더, 웹화면 UI/UX 설계 및 구현</p>
+        <p><strong>주요 역할:</strong> 팀장, 백엔드 및 웹화면 구현</p>
         <div style="text-align: center;">
           <a href="#59seconds-details">상세 보기</a> | 
           <a href="https://github.com/404DreamSolutions/59seconds" style="display: inline-block; text-decoration: none; background-color: #C4C5D7; color: black; padding: 8px 15px; border-radius: 5px; margin-top: 10px;">보러가기</a>
         </div>
       </div>
     </td>
+      <td>
+  <div style="border: 2px solid #FFD1DC; border-radius: 10px; padding: 20px; width: 300px; height: 300px;">
+    <img src="https://img.shields.io/badge/프로젝트-SamwaMoney-FFD1DC?style=for-the-badge" />
+    <p>💰 <strong>SamwaMoney (삼와머니)</strong></p>
+    <p>“너… 지갑 아직 살아있어?”<br>콩팥이가 지켜주는 간편한 가계부, 삼와머니!</p>
+    <p>지갑의 생명을 지키기 위한 가계부 서비스로, 신체 기관 콘셉트를 도입해 재밌고 직관적인 UX를 기획했습니다. 현재 개발 진행 중입니다.</p>
+    <p><strong>주요 역할:</strong> 프론트엔드 개발, 서비스 기획 및 디자인</p>
+    <div style="text-align: center;">
+      <a href="#samwamoney-details">상세 보기</a> | 
+      <a href="https://github.com/KB-samwamoney/samwamoney" style="display: inline-block; text-decoration: none; background-color: #FFD1DC; color: black; padding: 8px 15px; border-radius: 5px; margin-top: 10px;">보러가기</a>
+    </div>
+  </div>
+</td>
+
   </tr>
+  
 </table>
 
 <br>
