@@ -25,11 +25,12 @@
 
 <div>✈ <strong>해외(영국)거주 (2004.05~2009.12)</strong> </div>
 <div>🎓 <strong>법학과 졸업 (학점: 4.27/4.5)</strong> </div>
-<div>📖 <strong>OPIc AL & TOEIC 940점(2023년 기준), 925점(2025년 기준)</strong> </div>
+<div>📖 <strong>OPIc IH & TOEIC 925점 & TOEIC Speaking AL</strong> </div>
 <div>🎉 <strong>SSAFY 11기</strong> </div>
 <div>🎉 <strong>It's Your Life 6기</strong> </div>
 <div>✨ <strong>SSAFY 2학기 공통 프로젝트 우수상</strong> </div>
 <div>💼 <strong>신한 해커톤 with SSAFY 본선 진출</strong> </div>
+<div>💼 <strong>프론트엔드 개발자로 재직 중 (2025.07.28 ~ 현재)</strong> </div>
 
 <br>
 <br>
