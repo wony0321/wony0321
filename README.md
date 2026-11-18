@@ -306,7 +306,9 @@
 <table>
 <tr>
 <td align="center" width="22%"><b>🎨 Planning<br>& Collaboration</b></td>
-<td><img src="https://skillicons.dev/icons?i=figma,notion,jira,slack,git,github,gitlab&theme=light" /></td>
+<td><img src="https://skillicons.dev/icons?i=figma,notion,git,github,gitlab&theme=light" /><br>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></td>
 </tr>
 <tr>
 <td align="center"><b>💻 Frontend</b></td>
